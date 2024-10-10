@@ -26,7 +26,8 @@ public class CursoEPagamentoModular {
         loopForListas(cursos);
         System.out.print("Digite o numero do curso desejado: ");
         cursoEscolhido = sc.nextInt();
-        if (!numeroDigitadoUsuarioVerificacao(cursoEscolhido, cursos)) {
+        boolean cursoEscolhidoVerificacao = numeroDigitadoUsuarioVerificacao(cursoEscolhido, cursos);
+        if (!cursoEscolhidoVerificacao) {
             mensagemErro();
         }
     }
@@ -36,7 +37,8 @@ public class CursoEPagamentoModular {
         loopForListas(formaDePagamento);
         System.out.print("Digite o numero do pagamento desejado: ");
         pagamentoEscolhido = sc.nextInt();
-        if (!numeroDigitadoUsuarioVerificacao(pagamentoEscolhido, formaDePagamento)) {
+        boolean pagamentoVerificacao= numeroDigitadoUsuarioVerificacao(pagamentoEscolhido, formaDePagamento);
+        if (!pagamentoVerificacao) {
             mensagemErro();
         }
     }
