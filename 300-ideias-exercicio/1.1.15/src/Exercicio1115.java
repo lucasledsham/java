@@ -11,7 +11,14 @@
 // Opção: _
 
 public class Exercicio1115 {
+    static String[] opcoesMenu = new String[] {"Fim", "Incluir", "Altera", "Exclui", "Consulta"};
+
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        System.out.println("Cadastro de Clientes\n");
+        for (int i = 0; i < opcoesMenu.length; i++) {
+            System.out.println(i + " - " + opcoesMenu[i]);
+        }
+        System.out.println("\nOpcao: ");
+
     }
 }
