@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/exerciciosFor/01_numerosDivisiveisPorDois/01_numerosDivisiveisPorDois.iml" filepath="$PROJECT_DIR$/exerciciosFor/01_numerosDivisiveisPorDois/01_numerosDivisiveisPorDois.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosFor/02_numerosMaioresQueDez/02_numerosMaioresQueDez.iml" filepath="$PROJECT_DIR$/exerciciosFor/02_numerosMaioresQueDez/02_numerosMaioresQueDez.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosFor/03_numerosImpares/03_numerosImpares.iml" filepath="$PROJECT_DIR$/exerciciosFor/03_numerosImpares/03_numerosImpares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosFor/04_numerosAoQuadrado/04_numerosAoQuadrado.iml" filepath="$PROJECT_DIR$/exerciciosFor/04_numerosAoQuadrado/04_numerosAoQuadrado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosFor/05_numerosTerminandoEmCinco/05_numerosTerminandoEmCinco.iml" filepath="$PROJECT_DIR$/exerciciosFor/05_numerosTerminandoEmCinco/05_numerosTerminandoEmCinco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosFor/06_numerosMenoresQueZero/06_numerosMenoresQueZero.iml" filepath="$PROJECT_DIR$/exerciciosFor/06_numerosMenoresQueZero/06_numerosMenoresQueZero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosFor/07_somaDosNumeros/07_somaDosNumeros.iml" filepath="$PROJECT_DIR$/exerciciosFor/07_somaDosNumeros/07_somaDosNumeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosFor/08_numerosNaPosicaoPar/08_numerosNaPosicaoPar.iml" filepath="$PROJECT_DIR$/exerciciosFor/08_numerosNaPosicaoPar/08_numerosNaPosicaoPar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosFor/09_produtoDosNumeros/09_produtoDosNumeros.iml" filepath="$PROJECT_DIR$/exerciciosFor/09_produtoDosNumeros/09_produtoDosNumeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosFor/10_numerosEntreCincoEQuinze/10_numerosEntreCincoEQuinze.iml" filepath="$PROJECT_DIR$/exerciciosFor/10_numerosEntreCincoEQuinze/10_numerosEntreCincoEQuinze.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosFor/11_numerosUmACem/11_numerosUmACem.iml" filepath="$PROJECT_DIR$/exerciciosFor/11_numerosUmACem/11_numerosUmACem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosFor/12_somaNumerosUmACinquenta/12_somaNumerosUmACinquenta.iml" filepath="$PROJECT_DIR$/exerciciosFor/12_somaNumerosUmACinquenta/12_somaNumerosUmACinquenta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosFor/13_numerosParesUmACem/13_numerosParesUmACem.iml" filepath="$PROJECT_DIR$/exerciciosFor/13_numerosParesUmACem/13_numerosParesUmACem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosFor/14_tabuadaDeUmNumero/14_tabuadaDeUmNumero.iml" filepath="$PROJECT_DIR$/exerciciosFor/14_tabuadaDeUmNumero/14_tabuadaDeUmNumero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosFor/15_fatorialDeUmNumero/15_fatorialDeUmNumero.iml" filepath="$PROJECT_DIR$/exerciciosFor/15_fatorialDeUmNumero/15_fatorialDeUmNumero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosFor/16_calculoDeMediaDeNotas/16_calculoDeMediaDeNotas.iml" filepath="$PROJECT_DIR$/exerciciosFor/16_calculoDeMediaDeNotas/16_calculoDeMediaDeNotas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aprovadoConcurso/aprovadoConcurso.iml" filepath="$PROJECT_DIR$/aprovadoConcurso/aprovadoConcurso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contaFamiliar/contaFamiliar.iml" filepath="$PROJECT_DIR$/contaFamiliar/contaFamiliar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/descontoProduto/descontoProduto.iml" filepath="$PROJECT_DIR$/descontoProduto/descontoProduto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/divisivelporTres/divisivelporTres.iml" filepath="$PROJECT_DIR$/divisivelporTres/divisivelporTres.iml" />
+      <module fileurl="file://$PROJECT_DIR$/formaPagamentoETaxa/formaPagamentoETaxa.iml" filepath="$PROJECT_DIR$/formaPagamentoETaxa/formaPagamentoETaxa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-estudo.iml" filepath="$PROJECT_DIR$/.idea/java-estudo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/podeAposentar/podeAposentar.iml" filepath="$PROJECT_DIR$/podeAposentar/podeAposentar.iml" />
+    </modules>
+  </component>
+</project>

@@ -6,7 +6,7 @@
 //Double[][] mes = new Double[][] { semanaUm, semanaDois, semanaTres, semanaQuatro };
 
 //Os quatro primeiros vetores estão guardando o faturamento diário de cada semana e o último vetor, que é de 2 dimensões,
-// guarda o faturamento mensal separado por semanas.
+//guarda o faturamento mensal separado por semanas.
 
 //Crie um algoritmo que encontre qual a semana teve o maior faturamento. No final mostre qual foi essa semana e de quanto foi esse faturamento.
 
