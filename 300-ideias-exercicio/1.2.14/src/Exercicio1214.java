@@ -17,7 +17,7 @@ public class Exercicio1214 {
         metrosAndadosDia = distanciaEmMetros * 2;
         totalMetrosAndadosAno = totalDiasTrabalhados * metrosAndadosDia;
 
-        double quilometrosAndadosAno = totalMetrosAndadosAno / 1000;
+        double quilometrosAndadosAno = totalMetrosAndadosAno / 1000.0;
 
         System.out.printf("O total de quilometros andados em um ano e de: %.2f", quilometrosAndadosAno);
     }
