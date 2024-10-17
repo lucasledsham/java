@@ -6,6 +6,7 @@ public class CalculadoraComModulos2 {
     static double numeroDois;
     static String[] operacoesDisponiveis = new String[] {"Adicao (+)", "Subtracao (-)", "Multiplicacao (*)", "Divisao (/)"};
     static int operacaoDesejada;
+    static boolean operacaoDesejadoIncorreto;
     static double resultado;
 
     public static void main(String[] args) {
@@ -15,6 +16,7 @@ public class CalculadoraComModulos2 {
         numeroDois = numeroDigitado("Digite o segundo numero: ");
         iteracaoOperacoesDisponiveis();
         operacaoDesejada = operacaoDesejadaEscolha();
+        numeroDigitadoIncorretoOperacao();
         switchCaseResultado();
         System.out.printf("\nResultado: %.2f", resultado);
 
@@ -39,6 +41,14 @@ public class CalculadoraComModulos2 {
     static int operacaoDesejadaEscolha() {
         System.out.print("Escolha o numero da operacao desejada: ");
         return sc.nextInt();
+    }
+
+    static void numeroDigitadoIncorretoOperacao() {
+        operacaoDesejadoIncorreto = operacaoDesejada > 0 && operacaoDesejada <= (operacoesDisponiveis.length) ;
+        if (!operacaoDesejadoIncorreto) {
+            System.err.println("Digite um numero valido!");
+            System.exit(0);
+        }
     }
 
     static double metodoAdicao() {
